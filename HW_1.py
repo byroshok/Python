@@ -1,6 +1,4 @@
 #1) Создать переменную типа String
-import string
-
 a ='a'
 print(type(a), 'A =', a)
 #2)Создать переменную типа Integer
